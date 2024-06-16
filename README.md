@@ -1,3 +1,3 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+Build using Express.js, The Request-Header-Parser Microservice is a dedicated application designed to extract and process information from HTTP request headers. This microservice analyzes incoming requests and provides detailed information about the client's environment, including IP address, and browser type. It offers a simple API endpoint where applications can send requests and receive parsed header data in a structured format.
